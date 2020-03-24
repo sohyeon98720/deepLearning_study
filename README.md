@@ -22,7 +22,7 @@ __각 목차에 해당하는 코드 요약__:
 > optimizer는 sgd, loss는 categorical_crossentropy                
 > test set accuracy 94.21%
 
-
+<br><br><br>
 
 
 
