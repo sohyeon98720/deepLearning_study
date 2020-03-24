@@ -33,6 +33,5 @@ __각 목차에 해당하는 코드 요약__:
 > 최종목표: 다중분류 -> 맨 마지막 출력층의 activation function은 softmax                  
 > optimizer는 adam, loss는 categorical_crossentropy                            
 > test set accuracy 61.7%                                  
-> 문제점: 데이터셋이 너무 적어서 validation set 을 만들지 않음.              
-> 문제점: validation set이 없어 정확한 판단 X(overfitting 등)                             
+> 부족한점: 데이터셋이 너무 적어 validation set을 만들지 않음, overfitting이 일어난 것으로 예상, 결과적으로 낮은 성능            
 > 해결방안: image generator 로 이미지 수 최대한 늘리고 validation set을 만든 다음, 더 큰 네트워크 구성                  
