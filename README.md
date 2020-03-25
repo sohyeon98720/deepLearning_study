@@ -26,7 +26,7 @@ __각 목차에 해당하는 코드 요약__:
 
 
 
-###### CNN을 이용한 과일 분류                                    
+###### `CNN을 이용한 과일 분류`                                    
 > 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection                         
 > 참고커널: https://www.kaggle.com/prateek0x/multiclass-image-classification-using-keras             
 ![다운로드](https://user-images.githubusercontent.com/47767202/77398531-0e20e380-6deb-11ea-9680-c2a92db9d073.png)                     
