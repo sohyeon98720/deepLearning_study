@@ -7,7 +7,7 @@ __팀원__ : 류지혜[jihyejjang](https://github.com/jihyejjang), 이지민[Jim
 
 __목차__ : 
 
-- [MNIST예제를 이용한 다중분류](#mnist예제를-이용한-다중분류)
+- [MNIST예제를 이용한 다중분류](#--mnist예제를-이용한-다중분류)
 
 - [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)](#cnn을-이용한-과일-분류)
 
