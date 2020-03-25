@@ -15,7 +15,7 @@ __목차__ :
 __각 목차에 해당하는 코드 요약__:
 
 
-- MNIST예제를 이용한 다중분류
+##### - MNIST예제를 이용한 다중분류
 > 데이터셋: keras mnist 사용(train set 갯수: 60000, test set 갯수: 10000)              
 ![다운로드](https://user-images.githubusercontent.com/47767202/77398775-77085b80-6deb-11ea-82d5-78da08062a96.png)                   
 > 최종목표: 다중분류 -> 맨 마지막 출력층의 activation function은 softmax   
