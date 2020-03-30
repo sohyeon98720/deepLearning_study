@@ -42,10 +42,10 @@ __각 목차에 해당하는 코드 요약__:
 <br><br><br>
 
 ##### - CNN을 이용한 과일 분류 improved version
-> 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection(위와 동일)                      
-![다운로드](https://user-images.githubusercontent.com/47767202/77398531-0e20e380-6deb-11ea-9680-c2a92db9d073.png)
-> 모델구성과 하이퍼파라미터 등의 조건은 대부분 위와 동일(epoch수는 70으로 늘림)
-> 바뀐 점: 부족한 데이터셋을 해결하기 위해 data augmentation을 이용해 데이터 수를 늘리고 validation set 또한 구성함
-> test set accuracy 75%
-> 부족한점: 
+> 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)                      
+![다운로드](https://user-images.githubusercontent.com/47767202/77398531-0e20e380-6deb-11ea-9680-c2a92db9d073.png)                 
+> 모델구성과 하이퍼파라미터 등의 조건은 대부분 위와 동일(epoch수는 70으로 늘림)                  
+> 바뀐 점: 부족한 데이터셋을 해결하기 위해 data augmentation을 이용해 데이터 수를 늘리고 validation set 또한 구성함                 
+> test set accuracy 75%                                               
+> 부족한점: train : val : test set의 비율이 맞지 않음.                                 
 
