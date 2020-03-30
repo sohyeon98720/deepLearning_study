@@ -11,6 +11,8 @@ __목차__ :
 
 - [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)](#--cnn을-이용한-과일-분류)
 
+- [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)의 improved version](#--cnn을-이용한-과일-분류-improved-version)
+
 ----------------------
 __각 목차에 해당하는 코드 요약__:
 
@@ -34,4 +36,9 @@ __각 목차에 해당하는 코드 요약__:
 > optimizer는 adam, loss는 categorical_crossentropy                            
 > test set accuracy 61.7%                                  
 > 부족한점: 데이터셋이 너무 적어 validation set을 만들지 않음, overfitting이 일어난 것으로 예상, 결과적으로 낮은 성능            
-> 해결방안: image generator 로 이미지 수 최대한 늘리고 validation set을 만든 다음, 더 큰 네트워크 구성                  
+> 해결방안: image generator 로 이미지 수 최대한 늘리고 validation set을 만든 다음, 더 큰 네트워크 구성         
+
+
+<br><br><br>
+
+##### - CNN을 이용한 과일 분류 improved version
