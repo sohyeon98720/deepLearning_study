@@ -26,9 +26,7 @@ __각 목차에 해당하는 코드 요약__:
 > optimizer는 sgd, loss는 categorical_crossentropy                
 > test set accuracy 94.21%
 
-<br><br><br>
-
-
+---------------------
 
 ##### - CNN을 이용한 과일 분류                                    
 > 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection                         
@@ -44,7 +42,7 @@ __각 목차에 해당하는 코드 요약__:
 >> <img src="https://user-images.githubusercontent.com/47767202/78045953-88380600-73b1-11ea-89e3-9dc483e31385.jpg" width="30%">        
 >> <img src="https://user-images.githubusercontent.com/47767202/78046380-0ac0c580-73b2-11ea-972d-344382e0a6d3.jpg" width="30%">     
 
-<br><br><br>
+---------------
 
 ##### - CNN을 이용한 과일 분류 improved version
 > 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)            
@@ -55,7 +53,7 @@ __각 목차에 해당하는 코드 요약__:
 > 부족한점: train : val : test set의 비율이 맞지 않음              
 > 문제점: 위와 동일              
 
-<br><br><br>
+-------------
 
 ##### - tensorflow api를 이용한 object detection
 > 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)          
