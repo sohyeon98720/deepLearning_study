@@ -59,6 +59,6 @@ __각 목차에 해당하는 코드 요약__:
 
 ##### - tensorflow api를 이용한 object detection
 > 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)          
-![다운로드](https://user-images.githubusercontent.com/47767202/78047593-8111f780-73b3-11ea-8668-387470b01ec9.PNG)     
+> <img src="https://user-images.githubusercontent.com/47767202/78047593-8111f780-73b3-11ea-8668-387470b01ec9.PNG" width="30%">     
 > 참고자료: https://musma.github.io/2019/02/15/tensorflow-on-windows.html                        
 > 부족한점: 데이터셋에서 제공하는 xml파일을 이용하여 object detection을 하자는 기존 목표에서 벗어남           
