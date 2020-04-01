@@ -37,6 +37,7 @@ optimizer는 adam, loss는 categorical_crossentropy
 test set accuracy 61.7%                                  
 부족한점: 데이터셋이 너무 적어 validation set을 만들지 않음, overfitting이 일어난 것으로 예상, 결과적으로 낮은 성능            
 해결방안: image generator 로 이미지 수 최대한 늘리고 validation set을 만든 다음, 더 큰 네트워크 구성  
+<br>
 문제점: 데이터셋 자체의 문제(순수한 과일 사진이 아닌 일러스트 이미지나 다른 물체와 함께 있는 사진이 있었음)         
 문제사진예시:                                            
 <img src="https://user-images.githubusercontent.com/47767202/78045953-88380600-73b1-11ea-89e3-9dc483e31385.jpg" width="30%">        
@@ -45,18 +46,18 @@ test set accuracy 61.7%
 ---------------
 
 ##### - CNN을 이용한 과일 분류 improved version
-> 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)            
+데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)            
 ![다운로드](https://user-images.githubusercontent.com/47767202/77398531-0e20e380-6deb-11ea-9680-c2a92db9d073.png)     
-> 모델구성과 하이퍼파라미터 등의 조건은 대부분 위와 동일(epoch수는 70으로 늘림)                  
-> 바뀐 점: 부족한 데이터셋을 해결하기 위해 data augmentation을 이용해 데이터 수를 늘리고 validation set 또한 구성함                 
-> test set accuracy 75%                                               
-> 부족한점: train : val : test set의 비율이 맞지 않음              
-> 문제점: 위와 동일              
+모델구성과 하이퍼파라미터 등의 조건은 대부분 위와 동일(epoch수는 70으로 늘림)                  
+바뀐 점: 부족한 데이터셋을 해결하기 위해 data augmentation을 이용해 데이터 수를 늘리고 validation set 또한 구성함                 
+test set accuracy 75%                                               
+부족한점: train : val : test set의 비율이 맞지 않음              
+문제점: 위와 동일              
 
 -------------
 
 ##### - tensorflow api를 이용한 object detection
-> 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)          
-> <img src="https://user-images.githubusercontent.com/47767202/78047593-8111f780-73b3-11ea-8668-387470b01ec9.PNG" width="30%">     
-> 참고자료: https://musma.github.io/2019/02/15/tensorflow-on-windows.html                        
-> 부족한점: 데이터셋에서 제공하는 xml파일을 이용하여 object detection을 하자는 기존 목표에서 벗어남           
+데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)          
+<img src="https://user-images.githubusercontent.com/47767202/78047593-8111f780-73b3-11ea-8668-387470b01ec9.PNG" width="30%">     
+참고자료: https://musma.github.io/2019/02/15/tensorflow-on-windows.html                        
+부족한점: 데이터셋에서 제공하는 xml파일을 이용하여 object detection을 하자는 기존 목표에서 벗어남           
