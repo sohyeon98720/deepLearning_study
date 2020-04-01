@@ -20,27 +20,27 @@ __각 목차에 해당하는 코드 요약__:
 
 
 ##### - MNIST예제를 이용한 다중분류
-> 데이터셋: keras mnist 사용(train set 갯수: 60000, test set 갯수: 10000)              
+데이터셋: keras mnist 사용(train set 갯수: 60000, test set 갯수: 10000)              
 ![다운로드](https://user-images.githubusercontent.com/47767202/77398775-77085b80-6deb-11ea-82d5-78da08062a96.png)                   
-> 최종목표: 다중분류 -> 맨 마지막 출력층의 activation function은 softmax   
-> optimizer는 sgd, loss는 categorical_crossentropy                
-> test set accuracy 94.21%
+최종목표: 다중분류 -> 맨 마지막 출력층의 activation function은 softmax   
+optimizer는 sgd, loss는 categorical_crossentropy                
+test set accuracy 94.21%
 
 ---------------------
 
 ##### - CNN을 이용한 과일 분류                                    
-> 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection                         
-> 참고커널: https://www.kaggle.com/prateek0x/multiclass-image-classification-using-keras             
+데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection                         
+참고커널: https://www.kaggle.com/prateek0x/multiclass-image-classification-using-keras             
 ![다운로드](https://user-images.githubusercontent.com/47767202/77398531-0e20e380-6deb-11ea-9680-c2a92db9d073.png)                     
-> 최종목표: 다중분류 -> 맨 마지막 출력층의 activation function은 softmax                  
-> optimizer는 adam, loss는 categorical_crossentropy                            
-> test set accuracy 61.7%                                  
-> 부족한점: 데이터셋이 너무 적어 validation set을 만들지 않음, overfitting이 일어난 것으로 예상, 결과적으로 낮은 성능            
-> 해결방안: image generator 로 이미지 수 최대한 늘리고 validation set을 만든 다음, 더 큰 네트워크 구성  
->> 문제점: 데이터셋 자체의 문제(순수한 과일 사진이 아닌 일러스트 이미지나 다른 물체와 함께 있는 사진이 있었음)         
->> 문제사진예시:                                            
->> <img src="https://user-images.githubusercontent.com/47767202/78045953-88380600-73b1-11ea-89e3-9dc483e31385.jpg" width="30%">        
->> <img src="https://user-images.githubusercontent.com/47767202/78046380-0ac0c580-73b2-11ea-972d-344382e0a6d3.jpg" width="30%">     
+최종목표: 다중분류 -> 맨 마지막 출력층의 activation function은 softmax                  
+optimizer는 adam, loss는 categorical_crossentropy                            
+test set accuracy 61.7%                                  
+부족한점: 데이터셋이 너무 적어 validation set을 만들지 않음, overfitting이 일어난 것으로 예상, 결과적으로 낮은 성능            
+해결방안: image generator 로 이미지 수 최대한 늘리고 validation set을 만든 다음, 더 큰 네트워크 구성  
+문제점: 데이터셋 자체의 문제(순수한 과일 사진이 아닌 일러스트 이미지나 다른 물체와 함께 있는 사진이 있었음)         
+문제사진예시:                                            
+<img src="https://user-images.githubusercontent.com/47767202/78045953-88380600-73b1-11ea-89e3-9dc483e31385.jpg" width="30%">        
+<img src="https://user-images.githubusercontent.com/47767202/78046380-0ac0c580-73b2-11ea-972d-344382e0a6d3.jpg" width="30%">     
 
 ---------------
 
