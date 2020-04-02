@@ -15,6 +15,8 @@ __목차__ :
 
 3. [tensorflow api를 이용한 object detection](#--tensorflow-api를-이용한-object-detection)
 
+3-1. [xml을 이용한 object detection](#--xml을-이용한-object-detection)
+
 ----------------------
 __각 목차에 해당하는 코드 요약__:
 
@@ -61,3 +63,8 @@ test set accuracy 75%
 <img src="https://user-images.githubusercontent.com/47767202/78047593-8111f780-73b3-11ea-8668-387470b01ec9.PNG" width="30%">     
 참고자료: https://musma.github.io/2019/02/15/tensorflow-on-windows.html                        
 부족한점: 데이터셋에서 제공하는 xml파일을 이용하여 object detection을 하자는 기존 목표에서 벗어남           
+
+------------
+
+##### - xml을 이용한 object detection
+캐글링크: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml
