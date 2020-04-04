@@ -1,6 +1,6 @@
 # 딥러닝 스터디
 
-### 딥러닝 관련 스터디(2020.03~진행중)
+### 딥러닝 관련 스터디(2020.03 한달간)
 
 ------------
 __팀원__ : 류지혜[jihyejjang](https://github.com/jihyejjang), 이지민[Jimin980921](https://github.com/Jimin980921), 한나연[HanNayeoniee](https://github.com/HanNayeoniee)
@@ -67,4 +67,6 @@ test set accuracy 75%
 ------------
 
 ##### - xml을 이용한 object detection
-캐글링크: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml
+데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)                 
+__캐글링크__: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml
+<img src="https://user-images.githubusercontent.com/47767202/78454074-bd559880-76d0-11ea-8224-bb5d2c3a19f7.PNG" width="30%">
