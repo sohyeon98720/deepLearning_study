@@ -1,9 +1,8 @@
 # 딥러닝 스터디
 
-### 딥러닝 관련 스터디(2020.03 한달간)
+### 딥러닝 관련 스터디(2020.03 ~2020.04)
 
 ------------
-__팀원__ : 류지혜[jihyejjang](https://github.com/jihyejjang), 이지민[Jimin980921](https://github.com/Jimin980921), 한나연[HanNayeoniee](https://github.com/HanNayeoniee)
 
 __목차__ : 
 
@@ -16,6 +15,8 @@ __목차__ :
 3. [tensorflow api를 이용한 object detection](#--tensorflow-api를-이용한-object-detection)
 
 3-1. [xml을 이용한 object detection](#--xml을-이용한-object-detection)
+
+4. [semantic segmentation을 이용한 배경합성] (#--semantic segmentation을-이용한-배경합성)
 
 ----------------------
 __각 목차에 해당하는 코드 요약__:
@@ -70,3 +71,8 @@ test set accuracy 75%
 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)                 
 __캐글링크__: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml                                          
 <img src="https://user-images.githubusercontent.com/47767202/78454074-bd559880-76d0-11ea-8224-bb5d2c3a19f7.PNG" width="30%">
+
+-----------
+
+##### - semantic segmentation을 이용한 배경합성
+
