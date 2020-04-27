@@ -79,5 +79,5 @@ __캐글링크__: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml
   <img src="https://user-images.githubusercontent.com/47767202/80336132-5c654e80-8891-11ea-97c9-88fa09e1ca11.jpg" width="30%">
   <img src="https://user-images.githubusercontent.com/47767202/80336171-7f8ffe00-8891-11ea-9c86-4a75f5e2a58c.jpg" width="37.5%">      
 출력영상(인물+배경 합성영상):                          
-  <img src="https://user-images.githubusercontent.com/47767202/80336526-75baca80-8892-11ea-980f-924a90980b03.JPG" width="33%">         
+  <img src="https://user-images.githubusercontent.com/47767202/80336526-75baca80-8892-11ea-980f-924a90980b03.JPG" width="30%">         
 참고자료: 
