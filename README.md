@@ -16,9 +16,9 @@ __목차__ :
 
 3-1. [xml을 이용한 object detection](#--xml을-이용한-object-detection)
 
-4.   [semantic segmentation을 이용한 배경합성](#--semantic-segmentation을-이용한-배경합성)
+4.   [semantic segmentation을 이용한 배경합성](#--semantic-segmentation을-이용한-배경합성pytorch)
 
-4-1. [instance segmentation](#--instance-segmentation)
+4-1. [instance segmentation](#--instance-segmentationkeras)
 
 ----------------------
 __각 목차에 해당하는 코드 요약__:
@@ -85,4 +85,5 @@ __캐글링크__: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml
 참고자료: https://github.com/kairess/semantic-segmentation-pytorch
 
 -----------
-##### - instance segmentation(keras)
+##### - instance segmentation(keras)                                    
+참고자료: https://towardsdatascience.com/computer-vision-instance-segmentation-with-mask-r-cnn-7983502fcad1
