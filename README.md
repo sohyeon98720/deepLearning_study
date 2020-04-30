@@ -6,22 +6,22 @@
 
 __목차__ : 
 
-- __classification__: 
-  1.   [MNIST예제를 이용한 다중분류](#--mnist예제를-이용한-다중분류)
+- __classification__:                           
+    1.   [MNIST예제를 이용한 다중분류](#--mnist예제를-이용한-다중분류)
 
-  2.   [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)](#--cnn을-이용한-과일-분류)
+    2.   [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)](#--cnn을-이용한-과일-분류)
 
-  2-1. [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)의 improved version](#--cnn을-이용한-과일-분류-improved-version)
+    3. [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)의 improved version](#--cnn을-이용한-과일-분류-improved-version)
   
-- __object-detection__:
-  3.   [tensorflow api를 이용한 object detection](#--tensorflow-api를-이용한-object-detection)
+- __object-detection__:                           
+    4.   [tensorflow api를 이용한 object detection](#--tensorflow-api를-이용한-object-detection)
 
-  3-1. [xml을 이용한 object detection](#--xml을-이용한-object-detection)
+    5. [xml을 이용한 object detection](#--xml을-이용한-object-detection)
 
-- __segmentation__:
-  4.   [semantic segmentation을 이용한 배경합성](#--semantic-segmentation을-이용한-배경합성pytorch)
+- __segmentation__:                           
+    6.   [semantic segmentation을 이용한 배경합성](#--semantic-segmentation을-이용한-배경합성pytorch)
 
-  4-1. [instance segmentation](#--instance-segmentationkeras)
+    7. [instance segmentation](#--instance-segmentationkeras)
 
 ----------------------
 __각 목차에 해당하는 코드 요약__:
