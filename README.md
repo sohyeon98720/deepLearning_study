@@ -26,8 +26,13 @@ __목차__ :
     7. [instance segmentation](#--instance-segmentationkeras)
 
 ----------------------
-__각 목차에 해당하는 코드 요약__:
+__설명__:
 
+<img src="https://user-images.githubusercontent.com/47767202/80864971-2ecd3a80-8cc1-11ea-951d-c992be40f93d.JPG" width="70%">
+
+----------------------
+
+__각 목차에 해당하는 코드 요약__:
 
 ##### - MNIST예제를 이용한 다중분류
 데이터셋: keras mnist 사용(train set 갯수: 60000, test set 갯수: 10000)              
