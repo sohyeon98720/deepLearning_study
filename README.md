@@ -7,21 +7,20 @@
 __목차__ : 
 
 - __classifiaction, object-detection, segmentation에 관한 간단한 설명__
-- __코드설명__:
-   - __classification__:                           
+- __코드요약: classification__                           
     1.   [MNIST예제를 이용한 다중분류](#--mnist예제를-이용한-다중분류)
 
     2.   [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)](#--cnn을-이용한-과일-분류)
 
     3. [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)의 improved version](#--cnn을-이용한-과일-분류-improved-version)
   
-   - __object-detection__:      
+- __코드요약: object-detection__      
 
     4.   [tensorflow api를 이용한 object detection](#--tensorflow-api를-이용한-object-detection)
 
     5. [xml을 이용한 object detection](#--xml을-이용한-object-detection)
 
-   - __segmentation__:                           
+- __코드요약: segmentation__                           
 
     6.   [semantic segmentation을 이용한 배경합성](#--semantic-segmentation을-이용한-배경합성pytorch)
 
