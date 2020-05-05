@@ -29,7 +29,7 @@ __목차__ :
 ----------------------
 __설명__:
 
-<img src="https://user-images.githubusercontent.com/47767202/80864971-2ecd3a80-8cc1-11ea-951d-c992be40f93d.JPG" width="70%">
+<img src="https://user-images.githubusercontent.com/47767202/81072119-a51ba800-8f20-11ea-93d7-c6f25f8177e1.JPG" width="70%">
 
 ----------------------
 
