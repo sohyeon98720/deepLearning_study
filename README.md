@@ -6,7 +6,7 @@
 
 __목차__ : 
 
-- __classifiaction, object-detection, segmentation에 관한 간단한 사진[설명](#-)__
+- __classifiaction, object-detection, segmentation에 관한 간단한 사진[설명](#설명)__
 - __코드요약: classification__                           
     1.   [MNIST예제를 이용한 다중분류](#--mnist예제를-이용한-다중분류)
 
