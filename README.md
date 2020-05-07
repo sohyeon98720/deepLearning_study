@@ -14,11 +14,11 @@ __목차__ :
 
     3. CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)의 improved version
   
-- __코드요약: object-detection__      
+- __코드요약: [object-detection](#코드요약-object-detection)__      
 
-    4.   [tensorflow api를 이용한 object detection](#--tensorflow-api를-이용한-object-detection)
+    4.   tensorflow api를 이용한 object detection
 
-    5. [xml을 이용한 object detection](#--xml을-이용한-object-detection)
+    5. xml을 이용한 object detection
 
 - __코드요약: segmentation__                           
 
@@ -74,6 +74,7 @@ test set accuracy 75%
 
 -------------
 -------------
+#### 코드요약-object-detection
 
 ##### - tensorflow api를 이용한 object detection
 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)          
@@ -88,6 +89,7 @@ test set accuracy 75%
 __캐글링크__: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml                                          
 <img src="https://user-images.githubusercontent.com/47767202/78454074-bd559880-76d0-11ea-8224-bb5d2c3a19f7.PNG" width="30%">
 
+-----------
 -----------
 
 ##### - semantic segmentation을 이용한 배경합성(pytorch)
