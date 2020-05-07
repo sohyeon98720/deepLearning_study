@@ -7,12 +7,12 @@
 __목차__ : 
 
 - __classifiaction, object-detection, segmentation에 관한 간단한 사진[설명](#설명)__
-- __코드요약: classification__                           
-    1.   [MNIST예제를 이용한 다중분류](#--mnist예제를-이용한-다중분류)
+- __코드요약: [classification](#코드요약-classification)__                           
+    1.   MNIST예제를 이용한 다중분류
 
-    2.   [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)](#--cnn을-이용한-과일-분류)
+    2.   CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)
 
-    3. [CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)의 improved version](#--cnn을-이용한-과일-분류-improved-version)
+    3. CNN을 이용한 과일 분류(사과, 바나나, 오렌지, 혼합)의 improved version
   
 - __코드요약: object-detection__      
 
@@ -27,18 +27,15 @@ __목차__ :
     7. [instance segmentation](#--instance-segmentationkeras)
 
 ----------------------
+
 #### 설명:
-----------------------
 
 <img src="https://user-images.githubusercontent.com/47767202/81072119-a51ba800-8f20-11ea-93d7-c6f25f8177e1.JPG" width="70%">
 <img src="https://user-images.githubusercontent.com/47767202/81072208-c5e3fd80-8f20-11ea-9daf-5cff7ba3fd8d.JPG" width="70%">
 참고자료: https://reniew.github.io/18/
 
 ----------------------
-__코드요약: classification__
-
-----------------------
-
+#### 코드요약-classification
 
 ##### - MNIST예제를 이용한 다중분류
 데이터셋: keras mnist 사용(train set 갯수: 60000, test set 갯수: 10000)              
