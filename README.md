@@ -27,6 +27,8 @@ __목차__ :
     7. [instance segmentation](#--instance-segmentationkeras)
 
 ----------------------
+----------------------
+
 #### 설명:
 
 <img src="https://user-images.githubusercontent.com/47767202/81072119-a51ba800-8f20-11ea-93d7-c6f25f8177e1.JPG" width="70%">
@@ -34,8 +36,9 @@ __목차__ :
 참고자료: https://reniew.github.io/18/
 
 ----------------------
+----------------------
 
-__각 목차에 해당하는 코드 요약__:
+__코드요약: classification__
 
 ##### - MNIST예제를 이용한 다중분류
 데이터셋: keras mnist 사용(train set 갯수: 60000, test set 갯수: 10000)              
@@ -72,6 +75,7 @@ test set accuracy 75%
 부족한점: train : val : test set의 비율이 맞지 않음              
 문제점: 위와 동일              
 
+-------------
 -------------
 
 ##### - tensorflow api를 이용한 object detection
