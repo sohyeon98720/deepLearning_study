@@ -95,7 +95,7 @@ __캐글링크__: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml
 
 ##### - semantic segmentation을 이용한 배경합성(pytorch)
 순서대로 입력인물영상-입력배경영상-출력합성영상
-<img src="https://user-images.githubusercontent.com/47767202/81494534-8d5b6f80-92e4-11ea-9fdc-c200873737db.jpg" width="50%"
+<img src="https://user-images.githubusercontent.com/47767202/81494534-8d5b6f80-92e4-11ea-9fdc-c200873737db.jpg" width="50%">
 
 참고자료: https://github.com/kairess/semantic-segmentation-pytorch
 
