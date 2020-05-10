@@ -20,11 +20,11 @@ __목차__ :
 
     5. xml을 이용한 object detection
 
-- __코드요약: segmentation__                           
+- __코드요약: segmentation__(#코드요약-segmentation)                       
 
-    6.   [semantic segmentation을 이용한 배경합성](#--semantic-segmentation을-이용한-배경합성pytorch)
+    6.   semantic segmentation을 이용한 배경합성
 
-    7. [instance segmentation](#--instance-segmentationkeras)
+    7. instance segmentation
 
 ----------------------
 
@@ -91,6 +91,7 @@ __캐글링크__: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml
 
 -----------
 -----------
+#### 코드요약-segmentation
 
 ##### - semantic segmentation을 이용한 배경합성(pytorch)
 입력영상(인물,배경 순):                               
