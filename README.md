@@ -20,7 +20,7 @@ __목차__ :
 
     5. xml을 이용한 object detection
 
-- __코드요약: segmentation__(#코드요약-segmentation)                       
+- __코드요약: [segmentation](#코드요약-segmentation)                       __
 
     6.   semantic segmentation을 이용한 배경합성
 
