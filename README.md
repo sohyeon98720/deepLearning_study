@@ -28,14 +28,14 @@ __목차__ :
 
 ----------------------
 
-#### 설명:
+### 설명:
 
 <img src="https://user-images.githubusercontent.com/47767202/81072119-a51ba800-8f20-11ea-93d7-c6f25f8177e1.JPG" width="70%">
 <img src="https://user-images.githubusercontent.com/47767202/81072208-c5e3fd80-8f20-11ea-9daf-5cff7ba3fd8d.JPG" width="70%">
 참고자료: https://reniew.github.io/18/
 
 ----------------------
-#### 코드요약-classification
+### 코드요약-classification
 
 ##### - MNIST예제를 이용한 다중분류
 데이터셋: keras mnist 사용(train set 갯수: 60000, test set 갯수: 10000)              
@@ -46,7 +46,7 @@ test set accuracy 94.21%
 
 ---------------------
 
-##### - CNN을 이용한 과일 분류                                    
+#### - CNN을 이용한 과일 분류                                    
 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection                         
 참고커널: https://www.kaggle.com/prateek0x/multiclass-image-classification-using-keras             
 ![다운로드](https://user-images.githubusercontent.com/47767202/77398531-0e20e380-6deb-11ea-9680-c2a92db9d073.png)                     
@@ -73,8 +73,8 @@ test set accuracy 75%
 문제점: 위와 동일              
 
 -------------
--------------
-#### 코드요약-object-detection
+
+### 코드요약-object-detection
 
 ##### - tensorflow api를 이용한 object detection
 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)          
@@ -90,8 +90,8 @@ __캐글링크__: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml
 <img src="https://user-images.githubusercontent.com/47767202/78454074-bd559880-76d0-11ea-8224-bb5d2c3a19f7.PNG" width="30%">
 
 -----------
------------
-#### 코드요약-segmentation
+
+### 코드요약-segmentation
 
 ##### - semantic segmentation을 이용한 배경합성(pytorch)
 순서대로 입력**인물**영상-입력**배경**영상-출력**합성**영상                         
