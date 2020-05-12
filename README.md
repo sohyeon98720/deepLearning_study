@@ -82,7 +82,8 @@ test set accuracy 75%
 ##### - tensorflow api를 이용한 object detection
 > 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)     
 
-참고자료: https://musma.github.io/2019/02/15/tensorflow-on-windows.html                        
+참고자료: https://musma.github.io/2019/02/15/tensorflow-on-windows.html 
+
 **출력영상:**                                   
 <img src="https://user-images.githubusercontent.com/47767202/78047593-8111f780-73b3-11ea-8668-387470b01ec9.PNG" width="30%">     
 부족한점: 데이터셋에서 제공하는 xml파일을 이용하여 object detection을 하자는 기존 목표에서 벗어남           
@@ -92,8 +93,9 @@ test set accuracy 75%
 ##### - xml을 이용한 object detection
 > 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)         
 
-[__캐글링크__](https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml)
-**출력영상: **                                                        
+캐글링크: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml
+
+**출력영상: **                                                                                                               
 <img src="https://user-images.githubusercontent.com/47767202/78454074-bd559880-76d0-11ea-8224-bb5d2c3a19f7.PNG" width="30%">
 
 -----------
