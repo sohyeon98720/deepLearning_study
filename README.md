@@ -66,8 +66,9 @@ test set accuracy 61.7%
 ---------------
 
 ##### - CNN을 이용한 과일 분류 improved version
-데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)            
-![다운로드](https://user-images.githubusercontent.com/47767202/77398531-0e20e380-6deb-11ea-9680-c2a92db9d073.png)     
+> 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)            
+> ![다운로드](https://user-images.githubusercontent.com/47767202/77398531-0e20e380-6deb-11ea-9680-c2a92db9d073.png)     
+
 모델구성과 하이퍼파라미터 등의 조건은 대부분 위와 동일(epoch수는 70으로 늘림)                  
 바뀐 점: 부족한 데이터셋을 해결하기 위해 data augmentation을 이용해 데이터 수를 늘리고 validation set 또한 구성함                 
 test set accuracy 75%                                               
@@ -79,15 +80,16 @@ test set accuracy 75%
 ### 코드요약-object-detection
 
 ##### - tensorflow api를 이용한 object detection
-데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)          
-<img src="https://user-images.githubusercontent.com/47767202/78047593-8111f780-73b3-11ea-8668-387470b01ec9.PNG" width="30%">     
+> 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)          
+> <img src="https://user-images.githubusercontent.com/47767202/78047593-8111f780-73b3-11ea-8668-387470b01ec9.PNG" width="30%">     
+
 참고자료: https://musma.github.io/2019/02/15/tensorflow-on-windows.html                        
 부족한점: 데이터셋에서 제공하는 xml파일을 이용하여 object detection을 하자는 기존 목표에서 벗어남           
 
 ------------
 
 ##### - xml을 이용한 object detection
-데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)                 
+> 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection (위와 동일)                 
 __캐글링크__: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml                                          
 <img src="https://user-images.githubusercontent.com/47767202/78454074-bd559880-76d0-11ea-8224-bb5d2c3a19f7.PNG" width="30%">
 
