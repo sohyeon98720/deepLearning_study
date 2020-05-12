@@ -48,9 +48,10 @@ test set accuracy 94.21%
 ---------------------
 
 #### - CNN을 이용한 과일 분류                                    
-데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection                         
+> 데이터셋: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection                                                       
+> ![다운로드](https://user-images.githubusercontent.com/47767202/77398531-0e20e380-6deb-11ea-9680-c2a92db9d073.png)             
+
 참고커널: https://www.kaggle.com/prateek0x/multiclass-image-classification-using-keras             
-![다운로드](https://user-images.githubusercontent.com/47767202/77398531-0e20e380-6deb-11ea-9680-c2a92db9d073.png)                     
 최종목표: 다중분류 -> 맨 마지막 출력층의 activation function은 softmax                  
 optimizer는 adam, loss는 categorical_crossentropy                            
 test set accuracy 61.7%                                  
