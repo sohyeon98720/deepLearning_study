@@ -95,7 +95,7 @@ test set accuracy 75%
 
 캐글링크: https://www.kaggle.com/sohyeonee/fruit-objectdetection-xml
 
-**출력영상: **                                                                                                               
+**출력영상:**                                   
 <img src="https://user-images.githubusercontent.com/47767202/78454074-bd559880-76d0-11ea-8224-bb5d2c3a19f7.PNG" width="30%">
 
 -----------
