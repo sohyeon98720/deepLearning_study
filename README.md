@@ -109,5 +109,7 @@ test set accuracy 75%
 참고자료: https://github.com/kairess/semantic-segmentation-pytorch
 
 -----------
-##### - instance segmentation(keras)                                    
+##### - instance segmentation(keras)                    
+- 단일객체 인식
+<img src="https://user-images.githubusercontent.com/47767202/82110337-85824c00-9778-11ea-99e6-032c3f9a6c0e.jpg" width="70%">
 참고자료: https://towardsdatascience.com/computer-vision-instance-segmentation-with-mask-r-cnn-7983502fcad1
