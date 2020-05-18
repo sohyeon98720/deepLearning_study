@@ -102,7 +102,7 @@ test set accuracy 75%
 
 ### 코드요약-segmentation
 
-##### - semantic segmentation을 이용한 배경합성(pytorch)
+##### - semantic segmentation을 이용한 배경합성(pytorch-DeepLabV3)
 pytorch Docs>torchvision>torchvision.models>DeepLabV3 이용(https://pytorch.org/docs/stable/torchvision/models.html#deeplabv3)  
 
 순서대로 입력**인물**영상-입력**배경**영상-출력**합성**영상                         
@@ -111,7 +111,7 @@ pytorch Docs>torchvision>torchvision.models>DeepLabV3 이용(https://pytorch.org
 참고자료: https://github.com/kairess/semantic-segmentation-pytorch
 
 -----------
-##### - instance segmentation(keras)                    
+##### - instance segmentation(keras-MaskRCNN)                    
 - **단일**객체 인식
 <img src="https://user-images.githubusercontent.com/47767202/82110337-85824c00-9778-11ea-99e6-032c3f9a6c0e.jpg" width="70%">
 
