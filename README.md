@@ -103,6 +103,8 @@ test set accuracy 75%
 ### 코드요약-segmentation
 
 ##### - semantic segmentation을 이용한 배경합성(pytorch)
+pytorch Docs>torchvision>torchvision.models>DeepLabV3 이용(https://pytorch.org/docs/stable/torchvision/models.html#deeplabv3)  
+
 순서대로 입력**인물**영상-입력**배경**영상-출력**합성**영상                         
 <img src="https://user-images.githubusercontent.com/47767202/81494534-8d5b6f80-92e4-11ea-9fdc-c200873737db.jpg" width="70%">
 
