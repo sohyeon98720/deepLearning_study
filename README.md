@@ -25,6 +25,8 @@ __목차__ :
     6.   semantic segmentation을 이용한 배경합성
 
     7. instance segmentation
+    
+    8. instance segmentation을 이용한 배경합성
 
 ----------------------
 
@@ -119,3 +121,6 @@ pytorch Docs>torchvision>torchvision.models>DeepLabV3 이용(https://pytorch.org
 <img src="https://user-images.githubusercontent.com/47767202/82136239-5fc37880-9846-11ea-8ab1-f17f347223a0.png" width="80%">
 
 참고자료: https://towardsdatascience.com/computer-vision-instance-segmentation-with-mask-r-cnn-7983502fcad1
+
+-------------------
+#### - instance segmentation을 이용한 배경합성(keras_MaskRCNN)
