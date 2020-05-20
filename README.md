@@ -124,4 +124,9 @@ pytorch Docs>torchvision>torchvision.models>DeepLabV3 이용(https://pytorch.org
 
 -------------------
 #### - instance segmentation을 이용한 배경합성(keras_MaskRCNN)
+- **단일** 마스크 합성
 <img src="https://user-images.githubusercontent.com/47767202/82271773-ab476500-99b3-11ea-962c-af1299458e07.png" width="100%">
+
+- **다중** 마스크 합성
+<img src="https://user-images.githubusercontent.com/47767202/82452940-da142700-9aea-11ea-8765-ac01b559c2f3.jpg" width="100%">
+
